@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+  font: inherit;
+}
+
+.title {
+  position: absolute;
+  width: 56px;
+  height: 42px;
+  left: 558px;
+  top: 63px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+
+  color: #000000;
+}
+
+.description {
+  position: absolute;
+  width: 698px;
+  height: 266px;
+  left: 558px;
+  top: 155px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+}
+
+.content-image img {
+  height: 250px;
+}
